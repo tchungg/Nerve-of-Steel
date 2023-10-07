@@ -1,8 +1,6 @@
 """
-This program is used as an example for MGTC28.
-timer.py is a simple Python script that will allow user to set timer duration.
-Upon timer expiry, user will see the time up meme and sound notification.
-timer.py uses the time library to help keep track of time
+This program is used for MGTC28, In class exercise 4.
+nerve_of_steel uses the time library to help keep track of time and the random library to pick a random time
 """
 
 
