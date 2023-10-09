@@ -1,8 +1,13 @@
 """
 This program is used for MGTC28, In class exercise 4.
 nerve_of_steel uses the time library to help keep track of time and the random library to pick a random time
-"""
 
+Pseudocode:
+Display Players stand
+Sleep for a random time between 5 to 25
+Once timer is up, present a winner
+
+"""
 
 # This program is timer that counts down
 
